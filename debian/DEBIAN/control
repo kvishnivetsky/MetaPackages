@@ -1,0 +1,9 @@
+Package: common-applications
+Version: 1.0.0-1
+Maintainer: Konstantin S. Vishnivetsky <kos@vishnivetsky.ru>
+Architecture: all
+Section: misc
+Description: Meta-package for installing most common applications.
+Depends: mc, tcpdump, tshark, traceroute, dnsutils
+Priority: extra
+Origin: http://www.vishnivetsky.ru
